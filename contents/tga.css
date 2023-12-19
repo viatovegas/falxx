@@ -1,0 +1,22 @@
+body{
+    background-color: #c5d1d1;
+}
+
+header{
+    background-color: #c29b7f;
+}
+
+section{
+    background-color: #e4e4e4;
+}
+
+.container{
+    margin: auto;
+}
+.container h1{
+    font-family: 'Noto Serif JP', serif;
+    margin: 5vh 0;
+}
+.container p{
+    font-family: 'Noto Serif JP', serif;;
+}
